@@ -45,8 +45,6 @@ public class Main {
 
                         double importe = precio * cantidad;
                         subtotal += importe;
-
-                        // Usando println con concatenación pura
                         System.out.println("Importe: $" + importe);
                     }
 
